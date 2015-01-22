@@ -1,0 +1,22 @@
+{
+  "name": "object-transformer",
+  "version": "1.0.0",
+  "description": "Transforms the keys and values of an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:squinones/object-transformer.git"
+  },
+  "author": "Samantha Quiñones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/squinones/object-transformer/issues"
+  },
+  "homepage": "https://github.com/squinones/object-transformer",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
